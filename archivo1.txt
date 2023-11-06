@@ -1,4 +1,5 @@
 commit 1
 hotfix1
 feature-commit-2
+hotfix2(from-v1.1.0)
 feature-3
